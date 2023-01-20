@@ -1,11 +1,16 @@
 ---
 title: "Bijeenkomsten"
-editor: visual
-format: 
-  html:
-    toc: true
-    toc-location: right
-    toc-title: Thema's
+listing:
+  contents: bijeenkomsten
+  sort: "date desc"
+  sort-ui: false
+  # sort-ui: [title, date]
+  date-format: "YYYY-MM-DD"
+  type: default
+  categories: true
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
 
-Invullen
+Over onze bijeenkomsten

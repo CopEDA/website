@@ -1,0 +1,15 @@
+---
+title: "Bijeenkomst 17-11-2022"
+# description: ""
+date: "2022-12-09"
+# image: "deep_brug.png"
+format: html
+# categories: [] 
+draft: false
+listing: 
+  fields:
+    - title
+    - description
+---
+
+Verslag van de bijeenkomst

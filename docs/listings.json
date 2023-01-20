@@ -1,5 +1,20 @@
 [
   {
+    "listing": "/bijeenkomsten/2022-06-02/bijeenkomst_2022_06_02.html",
+    "items": []
+  },
+  {
+    "listing": "/bijeenkomsten/2022-11-17/bijeenkomst_2022_11_17.html",
+    "items": []
+  },
+  {
+    "listing": "/bijeenkomsten.html",
+    "items": [
+      "/bijeenkomsten/2022-06-02/bijeenkomst_2022_06_02.html",
+      "/bijeenkomsten/2022-11-17/bijeenkomst_2022_11_17.html"
+    ]
+  },
+  {
     "listing": "/nieuws/2022-06-02/bijeenkomst_2022_06_02.html",
     "items": []
   },

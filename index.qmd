@@ -11,6 +11,8 @@
 # title-block-banner: true
 ---
 
+# Introductie
+
 De Community of Practice Ecologische data-analyse (EDA) heeft als doel om samen meer informatie te halen uit de schat aan meetgegevens die waterbeheerders verzamelen. Dit draagt bij aan het beter begrijpen van het oppervlaktewatersysteem, het identificeren van mogelijke knelpunten en het definiëren van oplossingen om de ecologische waterkwaliteit te verbeteren. Essentieel hierbij is het uitwisselen van ervaringen en technieken wat betreft ecologische data-analyse. De CoP biedt een platform voor kennisuitwisseling op dit vlak, om elkaar zo op de hoogte te houden van bestaande/nieuwe analysetools voor bestaande/nieuwe data, en samen een stap verder te zetten.
 
 Hier vind je het laatste [nieuws](nieuws.qmd) 
