@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  # output-dir: TEMP
+
+website:
+  site-url: "https://copeda.github.io/website"
+  # favicon: "images/JTIP.png"
+  title: "CoP Ecologische Data-analyse"
+  page-navigation: true
+  navbar:
+    # logo: "images/JTIP_grey80.png"
+    # logo-alt: "Inverse Pi"
+    left:
+      - text: "Nieuws"
+        icon: file-text
+        file: nieuws.qmd
+      - text: "Bijeenkomsten"
+        icon: people-fill
+        file: bijeenkomsten.qmd
+      - text: "Lid worden?"
+        icon: check-circle-fill
+        file: lid_worden.qmd
+     
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/CoPEDA
+  twitter-card: true
+  open-graph: true
+      
+  
+format:
+  html:
+    theme: 
+      light: [sandstone, styles-light.scss]
+      dark: slate
+    css: styles.css
+
+lang: nl
+
+execute: 
+  freeze: auto
+
+# twitter-card: true

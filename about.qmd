@@ -1,0 +1,12 @@
+---
+title: "Over de CoP Ecologische data-analyse"
+image: "stowa-logo.svg"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/CoPEDA
+---
+
+Tekst invullen
