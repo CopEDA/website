@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/nieuws/2022-06-02/bijeenkomst_2022_06_02.html",
+    "items": []
+  },
+  {
+    "listing": "/nieuws/2022-11-17/bijeenkomst_2022_11_17.html",
+    "items": []
+  },
+  {
+    "listing": "/nieuws.html",
+    "items": [
+      "/nieuws/2022-06-02/bijeenkomst_2022_06_02.html",
+      "/nieuws/2022-11-17/bijeenkomst_2022_11_17.html"
+    ]
+  }
+]
